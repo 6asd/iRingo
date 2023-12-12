@@ -8,7 +8,7 @@
 
 [Rule]
 # > Country Code
-DOMAIN,gspe1-ssl.ls.apple.com,DIRECT
+DOMAIN,gspe1-ssl.ls.apple.com,Apple
 
 [Script]
 # 🗺️ Network Defaults
